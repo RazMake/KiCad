@@ -2,4 +2,4 @@
 fp-info-cache
 
 # ignore backup files
-_pcb-bak
+*_pcb-bak
