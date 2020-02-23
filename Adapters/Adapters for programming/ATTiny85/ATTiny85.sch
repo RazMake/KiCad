@@ -30,7 +30,7 @@ U 1 1 5E40AE02
 P 5600 3750
 F 0 "A1" H 5600 4931 50  0000 C CNN
 F 1 "Arduino_UNO_R3" H 5600 4840 50  0001 C CNN
-F 2 "ArduinoUnoMultiProgrammerAdapters:Arduino-UNO-R3-Shield" H 5600 3750 50  0001 C CIN
+F 2 "ArduinoUnoMultiProgrammerAdapters:Arduino_UNO_R3_Headers" H 5600 3750 50  0001 C CIN
 F 3 "https://www.arduino.cc/en/Main/arduinoBoardUno" H 5600 3750 50  0001 C CNN
 	1    5600 3750
 	1    0    0    -1  
