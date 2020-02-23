@@ -1,0 +1,5 @@
+# ignore cache files
+fp-info-cache
+
+# ignore backup files
+_pcb-bak
