@@ -21,7 +21,7 @@ U 1 1 5E40DD9C
 P 3250 3700
 F 0 "U1" H 3250 4681 50  0000 C CNN
 F 1 "ESP-07" H 3250 4590 50  0000 C CNN
-F 2 "ArduinoUnoMultiProgrammerAdapters:ESP-07-Socket" H 3250 3700 50  0001 C CNN
+F 2 "ArduinoUnoMultiProgrammerAdapters:ESP07BreaboardSocket" H 3250 3700 50  0001 C CNN
 F 3 "http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf" H 2900 3800 50  0001 C CNN
 	1    3250 3700
 	1    0    0    -1  
@@ -32,7 +32,7 @@ U 1 1 5E40F768
 P 6400 3700
 F 0 "A1" H 6400 4881 50  0000 C CNN
 F 1 "Arduino_UNO_R3" H 6900 4800 50  0000 C CNN
-F 2 "ArduinoUnoMultiProgrammerAdapters:Arduino-UNO-R3-Shield" H 6400 3700 50  0001 C CIN
+F 2 "ArduinoUnoMultiProgrammerAdapters:Arduino_UNO_R3_Headers" H 6400 3700 50  0001 C CIN
 F 3 "https://www.arduino.cc/en/Main/arduinoBoardUno" H 6400 3700 50  0001 C CNN
 	1    6400 3700
 	1    0    0    -1  

@@ -54,7 +54,7 @@ U 1 1 5E50BF8B
 P 6300 4500
 F 0 "J1" V 6396 4880 50  0000 L CNN
 F 1 "Conn_02x08_Counter_Clockwise" V 6305 4880 50  0000 L CNN
-F 2 "Package_DIP:DIP-16_W7.62mm" H 6300 4500 50  0001 C CNN
+F 2 "ArduinoUnoMultiProgrammerAdapters:ESP07BreaboardSocket" H 6300 4500 50  0001 C CNN
 F 3 "~" H 6300 4500 50  0001 C CNN
 	1    6300 4500
 	0    1    -1   0   
