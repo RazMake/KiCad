@@ -13,8 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 7200 7050 0    118  ~ 24
-Adapter for flashing ESP-07\nwith Arduino UNO
 $Comp
 L RF_Module:ESP-07 U1
 U 1 1 5E40DD9C
@@ -175,4 +173,6 @@ Wire Wire Line
 Connection ~ 4550 4000
 Wire Wire Line
 	4550 3100 3850 3100
+Text Notes 7200 7050 0    118  ~ 24
+Adapter for flashing ESP-07\nwith Arduino UNO
 $EndSCHEMATC
